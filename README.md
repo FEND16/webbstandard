@@ -26,6 +26,8 @@ Skriftlig examination: **IG/G**
     - CSS3
     - JS
 
+* **[Genomgång - Introduktion](https://fend16.github.io/slides/webbstandard/intro.html#/)**
+
 * [W3C](https://www.w3.org/Consortium/)
 * [WHATWG](https://whatwg.org/)
 * [IETF](https://www.ietf.org/)
