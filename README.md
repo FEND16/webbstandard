@@ -31,7 +31,10 @@ Skriftlig examination: **IG/G**
     - CSS3
     - JS
 
-####[Genomgång - Introduktion](https://fend16.github.io/slides/webbstandard/intro.html#/)
+
+#####Lektionsunderlag
+
+[Genomgång - Introduktion](https://fend16.github.io/slides/webbstandard/intro.html#/)**
 
 ##### Länkar
 * [W3C](https://www.w3.org/Consortium/)
@@ -71,6 +74,11 @@ Skriftlig examination: **IG/G**
 * CSS
 * DOM
 
+
+##### Lektionsunderlag
+
+* **[Slides: Olika vanliga standarder](https://fend16.github.io/slides/webbstandard/common_standards.html#/)**
+* **[Övning: vanlidering](https://github.com/FEND16/webbstandard/blob/master/exercises/01_validation.md)**
 
 ##### Länkar
 * [w3Schools.com | JSON Tutorial](http://www.w3schools.com/js/js_json_intro.asp)
