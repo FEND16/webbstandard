@@ -34,7 +34,7 @@ Skriftlig examination: **IG/G**
 
 #####Lektionsunderlag
 
-[Genomgång - Introduktion](https://fend16.github.io/slides/webbstandard/intro.html#/)**
+**[Genomgång - Introduktion](https://fend16.github.io/slides/webbstandard/intro.html#/)**
 
 ##### Länkar
 * [W3C](https://www.w3.org/Consortium/)
@@ -74,7 +74,6 @@ Skriftlig examination: **IG/G**
 * CSS
 * DOM
 
-
 ##### Lektionsunderlag
 
 * **[Slides: Olika vanliga standarder](https://fend16.github.io/slides/webbstandard/common_standards.html#/)**
@@ -100,18 +99,17 @@ Vad händer när vi besöker en hemsida på webben?
 * URL
     - URL Queries
     - URL Encoding
-* CRUD
-    - Create
-    - Read
-    - Update
-    - Delete
 
+##Lektionsunderlag
+
+* **[Slides: URL/DNS]**
+* **[Övning: Kolla nätverksaktivitet](https://github.com/FEND16/webbstandard/blob/master/exercises/02_web_resources.md)**
 
 
 ##### Länkar
 * [DNS](https://mediatemple.net/community/products/dv/204403924/dns-explained)
 * [Anatomy of a Web request](https://viacreative.co.uk/culture/anatomy-web-request)
-* [Wikipedia | CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+* [Wiki: IP](https://en.wikipedia.org/wiki/IP_address)
 
 ### Fredag 27/1 - Labbassisten på plats
 
@@ -130,10 +128,8 @@ Vad händer när vi besöker en hemsida på webben?
 * API
 * Undersöka API:er med Postman
 
-
-
 ##### Länkar
-* [https://bagder.gitbooks.io/http2-explained/content/en/](https://bagder.gitbooks.io/http2-explained/content/en/)
+* [HTTP2 vs HTTP1](https://bagder.gitbooks.io/http2-explained/content/en/)
 * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 * [SSL Explained](http://security.stackexchange.com/a/20847)
 * [HTTP Statuses](https://httpstatuses.com/)
@@ -145,18 +141,20 @@ Vad händer när vi besöker en hemsida på webben?
 
 ### Onsdag 1/1
 
+* Localhost
+    - Vår lokala server
+
 * AJAX
     - XMLHttpRequest
     - Fetch
 * GET/POST med AJAX
 * Labb: implementering av GET/POST
 
-
-
 ##### Länkar
 * [W3schools.com | AJAX Tutorial](http://www.w3schools.com/xml/ajax_intro.asp)
 * [David Walsh - Fetch API](https://davidwalsh.name/fetch)
 * [MDN - Fetch API](https://developer.mozilla.org/en/docs/Web/API/Fetch_API)
+* [SO: Localhost explained](http://superuser.com/a/321769)
 
 ### Fredag 3/2
 
@@ -171,7 +169,9 @@ Vad händer när vi besöker en hemsida på webben?
 
 ### Torsdag 9/2
 
-* Återkommer med info om tillfället
+* Praktisk tillämpning av HTML & DOM
+* HTML-taggar
+* Semantiskt HTML
 
 ### Fredag 10/2
 
