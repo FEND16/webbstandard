@@ -77,7 +77,7 @@ Skriftlig examination: **IG/G**
 ##### Lektionsunderlag
 
 * **[Slides: Olika vanliga standarder](https://fend16.github.io/slides/webbstandard/common_standards.html#/)**
-* **[Övning: vanlidering](https://github.com/FEND16/webbstandard/blob/master/exercises/01_validation.md)**
+* **[Övning: validering](https://github.com/FEND16/webbstandard/blob/master/exercises/01_validation.md)**
 
 ##### Länkar
 * [w3Schools.com | JSON Tutorial](http://www.w3schools.com/js/js_json_intro.asp)
@@ -100,9 +100,9 @@ Vad händer när vi besöker en hemsida på webben?
     - URL Queries
     - URL Encoding
 
-##Lektionsunderlag
+#####Lektionsunderlag
 
-* **[Slides: URL/DNS]**
+* **[Slides: URL/DNS](https://fend16.github.io/slides/webbstandard/url_dns.html#/)**
 * **[Övning: Kolla nätverksaktivitet](https://github.com/FEND16/webbstandard/blob/master/exercises/02_web_resources.md)**
 
 
@@ -113,9 +113,13 @@ Vad händer när vi besöker en hemsida på webben?
 
 ### Fredag 27/1 - Labbassisten på plats
 
-* Browserkollen - Undersöka olika Browsers
+* Browser Check - Undersöka olika Browsers
     - **Examinerande skriftlig inlämningsuppgift**
     - **Lämnas in innan kursens slut**
+
+##### Assignment
+
+* **[Assignment: Browser Check](https://github.com/FEND16/webbstandard/blob/master/assignment_browser_check.md)**
 
 ---
 **v.5**
