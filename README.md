@@ -107,7 +107,7 @@ Vad händer när vi besöker en hemsida på webben?
 
 
 ##### Länkar
-* [DNS](https://mediatemple.net/community/products/dv/204403924/dns-explained)
+* [Domain Names | Wiki](https://en.wikipedia.org/wiki/Domain_name)
 * [Anatomy of a Web request](https://viacreative.co.uk/culture/anatomy-web-request)
 * [Wiki: IP](https://en.wikipedia.org/wiki/IP_address)
 
@@ -131,6 +131,11 @@ Vad händer när vi besöker en hemsida på webben?
 * HTTP Headers / Body
 * API
 * Undersöka API:er med Postman
+
+##### Lektionsunderlag
+
+* **[Slides | HTTP](https://fend16.github.io/slides/webbstandard/http.html)**
+* **[Övning | HTTP Headers](https://github.com/FEND16/webbstandard/blob/master/exercises/03_postman.md)**
 
 ##### Länkar
 * [HTTP2 vs HTTP1](https://bagder.gitbooks.io/http2-explained/content/en/)
