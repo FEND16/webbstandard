@@ -132,6 +132,11 @@ Vad händer när vi besöker en hemsida på webben?
 * API
 * Undersöka API:er med Postman
 
+##### Lektionsunderlag
+
+* **[Slides | HTTP](https://fend16.github.io/slides/webbstandard/http.html)**
+* **[Övning | HTTP Headers](https://github.com/FEND16/webbstandard/blob/master/exercises/03_postman.md)**
+
 ##### Länkar
 * [HTTP2 vs HTTP1](https://bagder.gitbooks.io/http2-explained/content/en/)
 * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
