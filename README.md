@@ -136,6 +136,7 @@ Vad händer när vi besöker en hemsida på webben?
 
 * **[Slides | HTTP](https://fend16.github.io/slides/webbstandard/http.html)**
 * **[Övning | HTTP Headers](https://github.com/FEND16/webbstandard/blob/master/exercises/03_postman.md)**
+* **[API att använda](http://fend16.azurewebsites.net/albums)
 
 ##### Länkar
 * [HTTP2 vs HTTP1](https://bagder.gitbooks.io/http2-explained/content/en/)
@@ -159,6 +160,11 @@ Vad händer när vi besöker en hemsida på webben?
 * GET/POST med AJAX
 * Labb: implementering av GET/POST
 
+##### Lektionsunderlag
+
+* **[Slides | AJAX & LOCALHOST](https://fend16.github.io/slides/webbstandard/ajax.html#/)**
+* **[Övning | AJAX](https://github.com/FEND16/ajax-exercise)**
+
 ##### Länkar
 * [W3schools.com | AJAX Tutorial](http://www.w3schools.com/xml/ajax_intro.asp)
 * [David Walsh - Fetch API](https://davidwalsh.name/fetch)
@@ -174,13 +180,15 @@ Vad händer när vi besöker en hemsida på webben?
 
 ### Måndag 6/2
 
+* Praktisk tillämpning av HTML & DOM
+* HTML-taggar
+* Semantiskt HTML
+
 * Genomgång av vad vi ska kunna till tentan samt eventuella frågor kring tentan. 
 
 ### Torsdag 9/2
 
-* Praktisk tillämpning av HTML & DOM
-* HTML-taggar
-* Semantiskt HTML
+* Tentaplugg
 
 ### Fredag 10/2
 
